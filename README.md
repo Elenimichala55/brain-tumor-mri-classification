@@ -119,5 +119,4 @@ Setting `DEMO_MODE = True` (default) runs a shortened version of the notebook wi
 | G | Interpretability: Grad-CAM visualisation |
 | H | Conclusions |
 
-
----
+Author: Eleni Michala
