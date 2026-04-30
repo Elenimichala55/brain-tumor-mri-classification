@@ -110,7 +110,7 @@ Setting `DEMO_MODE = True` (default) runs a shortened version of the notebook wi
 ### Notebook Structure
 | Section | Description |
 |---|---|
-| A | README (this cell) |
+| A | README |
 | B | Imports and environment setup |
 | C | Data pipeline: EDA, preprocessing, DataLoaders |
 | D | Traditional ML baseline: SVM with HOG features |
